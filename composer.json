@@ -1,0 +1,16 @@
+{
+  "name": "jancuanerezo/blangko-child",
+  "description": "Child theme for blangko theme",
+  "authors": [
+    {
+      "name": "Jantinn Erezo",
+      "email": "erezojantinn@gmail.com",
+      "homepage": "https://github.com/jantinnerezo"
+    }
+  ],
+  "type": "wordpress-theme",
+  "require": {
+    "php": ">=7.1"
+  },
+  "license": "MIT"
+}
